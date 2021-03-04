@@ -1,5 +1,5 @@
 # ZAC
-Free FiveM Anti-Cheat program.
+Free FiveM Anti-Cheat program by team  REAPER.
 
 This Anti-Cheat doesn't need any configuration. It's working with every esx-base using FiveM servers, this resource is basically just drag and drop.
 
