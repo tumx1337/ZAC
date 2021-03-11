@@ -8,3 +8,5 @@ Installation
 1. Drag and drop this resource to your resources folder
 2. Open your server.cfg and add "Start z_ac"
 3. Everything is done! Enjoy:)!
+
+credits: tumx#1337
