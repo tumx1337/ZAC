@@ -9,4 +9,4 @@ Installation
 2. Open your server.cfg and add "Start z_ac"
 3. Everything is done! Enjoy:)!
 
-credits: hertz#1337.
+credits: hertz#1337
